@@ -1,0 +1,28 @@
+{
+  "name": "react-extension-pack-by-jifri",
+  "displayName": "React extension pack by Jifri",
+  "description": "React extension pack",
+  "publisher": "jifri",
+  "repository": {
+    "url": "https://github.com/jifrivly/React-Extension-Pack"
+  },
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "dsznajder.es7-react-js-snippets",
+    "infeng.vscode-react-typescript",
+    "dbaeumer.vscode-eslint",
+    "dbaeumer.jshint",
+    "mgmcdermott.vscode-language-babel",
+    "xabikos.JavaScriptSnippets",
+    "xabikos.ReactSnippets",
+    "christian-kohler.npm-intellisense",
+    "ms-vscode.vscode-typescript-next",
+    "zenclabs.previewjs"
+  ]
+}
