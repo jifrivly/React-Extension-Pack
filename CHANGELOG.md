@@ -4,6 +4,15 @@ All notable changes to the "react-extension-pack-by-jifri" extension pack will b
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
-## [Unreleased]
+## [v0.0.1]
 
 - Initial release
+
+## [v0.0.2]
+
+## [v0.0.3]
+
+## [v0.0.4]
+
+## [v0.0.5]
+- jshint is deprecated and removed from package list

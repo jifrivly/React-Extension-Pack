@@ -6,7 +6,7 @@
   "repository": {
     "url": "https://github.com/jifrivly/React-Extension-Pack"
   },
-  "version": "0.0.3",
+  "version": "0.0.5",
   "engines": {
     "vscode": "^1.74.0"
   },
@@ -17,7 +17,6 @@
     "dsznajder.es7-react-js-snippets",
     "infeng.vscode-react-typescript",
     "dbaeumer.vscode-eslint",
-    "dbaeumer.jshint",
     "mgmcdermott.vscode-language-babel",
     "xabikos.JavaScriptSnippets",
     "xabikos.ReactSnippets",
